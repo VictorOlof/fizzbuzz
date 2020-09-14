@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #1
+=======
+#2
+>>>>>>> second
 
 def main():
     for n in range(1, 101):
